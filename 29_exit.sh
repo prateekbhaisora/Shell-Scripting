@@ -1,5 +1,6 @@
 #!/bin/bash
 
+set -x
 # To access the arguements
 
 if [[ $# -eq 0 ]]

@@ -3,6 +3,7 @@
 for i in 1 2 3 4 5
 do
 	echo "Number is: $i"
+	sleep 2s
 done
 
 for name in Prateek Singh Bhaisora
